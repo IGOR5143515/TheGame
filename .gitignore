@@ -10,3 +10,6 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+.vs/
+*.pch
+*.ipch
